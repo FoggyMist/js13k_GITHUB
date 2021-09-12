@@ -1,0 +1,15 @@
+{
+	"include": ["src/**/*"],
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"removeComments": true,
+		"strict": true,
+		"alwaysStrict": true,
+		"sourceMap": true,
+		"strictFunctionTypes": true,
+		"module": "ES6",
+		"target": "ES6",
+		"outDir": "bin",
+		"lib": ["ES2015", "DOM"],
+	  },
+}

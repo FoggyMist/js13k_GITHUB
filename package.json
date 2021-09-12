@@ -1,0 +1,21 @@
+{
+  "name": "js13k-game",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Adam Kazubski, Maciej Jurga",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "gulp": "gulp",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/FoggyMist/js13k"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-minify": "^3.1.0",
+    "typescript": "^4.3.5"
+  }
+}
